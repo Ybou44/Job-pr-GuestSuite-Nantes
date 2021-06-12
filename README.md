@@ -12,6 +12,8 @@ Pour moi les trois points qui font que l'entreprise offre un environnement inté
 Lien sur le profil d'Adrien https://www.linkedin.com/in/adrien-rousseau-9521411a/
 
 
+## Présentation de l'entreprise :
+
 Guest Suite est une scale-up Nantaise qui fournit à plus de 3000 marques et 8000 points de vente la solution la plus complète de Review Management.
 
 Les 45 collaborateurs (dont 7 personnes dans l’équipe R&D et 3 dans l’équipe Produit) de Guest Suite, basés sur l'Île de Nantes, s’efforcent de délivrer la meilleure solution et le meilleur accompagnement en matière de gestion des avis clients :
