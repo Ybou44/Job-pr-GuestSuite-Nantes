@@ -1,0 +1,62 @@
+Vous intégrez l’équipe RetD (7 personnes) pour participer au développement backend en collaboration avec l’équipe produit (3 personnes).
+
+L’entreprise et son contexte
+
+Guest Suite est une scale-up Nantaise qui fournit à plus de 3000 marques et 8000 points de vente la solution la plus complète de Review Management.
+
+Les 45 collaborateurs (dont 7 personnes dans l’équipe R&D et 3 dans l’équipe Produit) de Guest Suite, basés sur l'Île de Nantes, s’efforcent de délivrer la meilleure solution et le meilleur accompagnement en matière de gestion des avis clients :
+•	Conception et diffusion d’enquêtes de satisfaction, via de nombreux canaux
+•	Collecte et diffusion automatique d’avis, partout où ça compte pour les professionnels (Google, TripAdvisor, Pages Jaunes…)
+•	Outils d’analyse sémantique et concurrentielle
+•	Gestion et délégation de la réponse aux avis, et traitement des avis illicites
+
+Après avoir conquis le marché du Tourisme en France, Guest Suite déploie sa solution auprès des acteurs de tous les secteurs d’activité pour lesquels l’e-réputation et la visibilité représentent un enjeu. (Immobilier, Automobile, Banque & Assurance, Professions Réglementées, Habitat, Artisans, Santé…)
+
+Votre rôle auprès de l’équipe :
+
+o	Vous participer aux ateliers de conception et développer les nouvelles fonctionnalités de façon autonome.
+o	Vous participez à la qualité globale de l’application en étant force de proposition et en partageant bonnes pratiques et connaissances avec l’équipe.
+o	Vous faites régulièrement de la veille sur les sujets que vous traitez
+
+Méthodologie et contexte technique
+
+Philosophie de développement
+
+Culture Produit : faire un produit beau et efficace, qui dure dans le temps, viser un "chef d'oeuvre", chercher à satisfaire les utilisateurs
+
+Agilité : flexibilité face au changement, développements orientés clients
+
+Collaboration : Partage de bonnes pratiques, Feature team… 
+
+Fonctionnement Agile : “build” et “run”
+
+Pour le “build” : Sprints de 3 semaines, PBR en cours de sprints, rétros et sprint plannings et vélocité via points d’efforts Fibonacci
+
+Pour le “run” : Kanban, portail customer service, checkup et priorisation toutes les semaines, colonne de sélection, de blocage et de validation des tickets
+
+Grands projets “build” du moment
+
+•	Back
+o	Transition du monolithe en applications puis en micro-services
+o	Transition vers des API de ressources
+o	Infrastructure as code & Orchestration
+o	Investissement sur les DB noSQL (MongoDB)
+o	Investissement sur l’asynchrone (event-driven)
+
+•	Front
+o	Refonte graphique de l'outil "pro"
+o	Refonte technique du front end (VueJS)
+
+#craftmanship #greencode #Agile #Chapter
+
+Ce qui vous sera utile sur ce poste :
+
+o	Expérience :
+	PHP (3 ans+)
+	Framework Symfony ou Laravel (1 an+)
+o	Quelques mots clés : API, Serializer, RabbitMQ, MySQL, MongoDB, Twig
+
+
+
+
+POUR POSTULER ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
