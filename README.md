@@ -11,6 +11,7 @@ Pour moi les trois points qui font que l'entreprise offre un environnement inté
 3 - Adrien, le CTO dont l'ambition est d'offrir un environnement qui mes les dev dans les meilleurs conditions pour bien travailler
 Lien sur le profil d'Adrien https://www.linkedin.com/in/adrien-rousseau-9521411a/
 
+Le processus de recrutement est le suivant : RDV avec le CTO, Test Technique et débrief du test avec le CTO. (fini !)
 
 ## Présentation de l'entreprise :
 
