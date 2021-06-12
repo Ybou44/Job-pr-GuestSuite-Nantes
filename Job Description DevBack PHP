@@ -1,6 +1,11 @@
+Développeur Back PHP
+--------------------
+
 Vous intégrez l’équipe RetD (7 personnes) pour participer au développement backend en collaboration avec l’équipe produit (3 personnes).
 
+
 L’entreprise et son contexte
+----------------------------
 
 Guest Suite est une scale-up Nantaise qui fournit à plus de 3000 marques et 8000 points de vente la solution la plus complète de Review Management.
 
@@ -12,15 +17,18 @@ Les 45 collaborateurs (dont 7 personnes dans l’équipe R&D et 3 dans l’équi
 
 Après avoir conquis le marché du Tourisme en France, Guest Suite déploie sa solution auprès des acteurs de tous les secteurs d’activité pour lesquels l’e-réputation et la visibilité représentent un enjeu. (Immobilier, Automobile, Banque & Assurance, Professions Réglementées, Habitat, Artisans, Santé…)
 
+
 Votre rôle auprès de l’équipe :
+-------------------------------
 
 o	Vous participer aux ateliers de conception et développer les nouvelles fonctionnalités de façon autonome.
 o	Vous participez à la qualité globale de l’application en étant force de proposition et en partageant bonnes pratiques et connaissances avec l’équipe.
 o	Vous faites régulièrement de la veille sur les sujets que vous traitez
 
 Méthodologie et contexte technique
+----------------------------------
 
-Philosophie de développement
+#Philosophie de développement
 
 Culture Produit : faire un produit beau et efficace, qui dure dans le temps, viser un "chef d'oeuvre", chercher à satisfaire les utilisateurs
 
@@ -34,7 +42,8 @@ Pour le “build” : Sprints de 3 semaines, PBR en cours de sprints, rétros et
 
 Pour le “run” : Kanban, portail customer service, checkup et priorisation toutes les semaines, colonne de sélection, de blocage et de validation des tickets
 
-Grands projets “build” du moment
+
+#Grands projets “build” du moment
 
 •	Back
 o	Transition du monolithe en applications puis en micro-services
@@ -50,6 +59,7 @@ o	Refonte technique du front end (VueJS)
 #craftmanship #greencode #Agile #Chapter
 
 Ce qui vous sera utile sur ce poste :
+-------------------------------------
 
 o	Expérience :
 	PHP (3 ans+)
@@ -59,4 +69,7 @@ o	Quelques mots clés : API, Serializer, RabbitMQ, MySQL, MongoDB, Twig
 
 
 
-POUR POSTULER ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
+POUR POSTULER
+-------------
+
+ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
