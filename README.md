@@ -1,5 +1,5 @@
 # Job-GuestSuite-80%remote-Nantes
-Les jobs tech de la société Guest Suite à Nantes
+Les jobs tech de la société Guest Suite à Nantes. Il est possible de faire jusqu'à 80% (4j/Semaine) en remote :)
 
 
 ## Présentation de l'entreprise :
@@ -26,7 +26,7 @@ Le site de l'entreprise : https://www.guest-suite.com/
 La page Linkedin institutionnelle  (qui est plutôt active) : https://www.linkedin.com/company/guest-suite/posts/?feedView=all
 
 
-## Pour postueler
+## Pour postuler
 ou me contacter et en savoir plus : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
 
 
