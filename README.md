@@ -1,4 +1,4 @@
-# Job-GuestSuite-Nantes
+# Job-GuestSuite-80%remote-Nantes
 Les jobs tech de la société Guest Suite à Nantes
 
 
