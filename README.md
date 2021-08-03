@@ -17,7 +17,7 @@ Après avoir conquis le marché du Tourisme en France, Guest Suite déploie sa s
 Pour moi les trois points qui font que l'entreprise offre un environnement intéressant pour les developpeurs :
 1 - les technologies qui sont récentes avec du challenge technique
 2 - la méthodologie agile qui est bien respecter pour prendre les meilleurs pratiques et les appliquer
-3 - Adrien, le CTO dont l'ambition est d'offrir un environnement qui mes les dev dans les meilleurs conditions pour bien travailler
+3 - Adrien, le CTO dont l'ambition est d'offrir un environnement qui met les dev dans les meilleurs conditions pour bien travailler
 Lien sur le profil d'Adrien https://www.linkedin.com/in/adrien-rousseau-9521411a/
 
 
