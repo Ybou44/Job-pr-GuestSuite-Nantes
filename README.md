@@ -1,4 +1,4 @@
-# Job-GuestSuite-80%remote-Nantes
+# Job-GuestSuite-40%remote-Nantes
 Les jobs tech de la société Guest Suite à Nantes. Il est possible de faire jusqu'à 60% (3j/Semaine) en remote :)
 
 
